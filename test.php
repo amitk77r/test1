@@ -1,3 +1,3 @@
 <?php
-echo 'uyTpesot';
+echo 'uyTipesot';
 ?>
