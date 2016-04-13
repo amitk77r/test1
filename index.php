@@ -1,3 +1,3 @@
 <?php
-echo 'jenkin test';
+echo 'CI Deploy';
 ?>
