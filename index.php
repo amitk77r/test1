@@ -1,3 +1,3 @@
 <?php
-echo 'CI Deploy';
+echo 'CI Deployy';
 ?>
